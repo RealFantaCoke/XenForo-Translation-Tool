@@ -1,0 +1,15 @@
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\bin\Debug\XenForo Translation Tool.exe.config
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\bin\Debug\XenForo Translation Tool.exe
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\bin\Debug\XenForo Translation Tool.pdb
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\bin\Debug\XenForo Translation Tool.xml
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\bin\Debug\FastColoredTextBox.dll
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo_Translation_Tool.Main.resources
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo_Translation_Tool.Resources.resources
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo Translation Tool.vbproj.GenerateResource.Cache
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo Translation Tool.exe
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo Translation Tool.xml
+C:\Users\Maintenance\Desktop\Développement\Visual Basic\Projects\LeakMania's Translation Tool\LeakMania's Translation Tool\obj\Debug\XenForo Translation Tool.pdb
+E:\Git\XenForo Translation Tool\bin\Debug\XenForo Translation Tool.exe.config
+E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.exe
+E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.xml
+E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.pdb
