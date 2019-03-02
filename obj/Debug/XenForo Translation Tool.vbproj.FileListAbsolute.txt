@@ -13,3 +13,7 @@ E:\Git\XenForo Translation Tool\bin\Debug\XenForo Translation Tool.exe.config
 E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.exe
 E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.xml
 E:\Git\XenForo Translation Tool\obj\Debug\XenForo Translation Tool.pdb
+E:\Git\XenForo-Translation-Tool\bin\Debug\XenForo Translation Tool.exe.config
+E:\Git\XenForo-Translation-Tool\obj\Debug\XenForo Translation Tool.exe
+E:\Git\XenForo-Translation-Tool\obj\Debug\XenForo Translation Tool.xml
+E:\Git\XenForo-Translation-Tool\obj\Debug\XenForo Translation Tool.pdb
